@@ -1,0 +1,1 @@
+{"name":"omarpos-license-server","version":"1.0.0","private":true,"description":"Central subscription and licensing server for OmarPOS","main":"server.js","scripts":{"start":"node server.js"},"dependencies":{"bcryptjs":"^3.0.2","better-sqlite3":"^11.10.0","express":"^5.1.0","helmet":"^8.1.0"}}
