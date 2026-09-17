@@ -1,6 +1,6 @@
 {
   "name": "omarpos",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "OmarPOS - برنامج نقاط البيع وإدارة المحلات",
   "main": "electron/main.js",
   "author": "عمر جمعه - مركز المهندس",
