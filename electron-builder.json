@@ -1,0 +1,8 @@
+{
+  "appId":"com.omarpos.desktop",
+  "productName":"OmarPOS",
+  "directories":{"output":"release"},
+  "files":["**/*","!release/**"],
+  "win":{"target":[{"target":"nsis","arch":["x64"]},{"target":"portable","arch":["x64"]}]},
+  "nsis":{"oneClick":false,"allowToChangeInstallationDirectory":true}
+}
